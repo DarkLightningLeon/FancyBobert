@@ -27,7 +27,13 @@ class Achievements {
 		["Just the Two of Us",			"Finish a Song pressing only two keys.",			'two_keys',				false],
 		["Toaster Gamer",				"Have you tried to run the game on a toaster?",		'toastie',				false],
 		["Debugger",					"Beat the \"Test\" Stage from the Chart Editor.",	'debugger',				 true]
-	];
+	        ["Aw Man!",                                      "Complete The Hidden Song Creep",                          'aw_man',                               false] 
+   	        ["He won't be happy...",                         "Complete The hidden song ImmortalHD",                     'happy,                                 false]
+ ["Now You can make me a sandwich","Complete Johnathan with atleast 90 accuracy", 'sandwich', false]
+
+
+
+];
 	public static var achievementsMap:Map<String, Bool> = new Map<String, Bool>();
 
 	public static var henchmenDeath:Int = 0;
