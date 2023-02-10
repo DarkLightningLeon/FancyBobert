@@ -26,7 +26,17 @@ class Achievements {
 		["Hyperactive",					"Finish a Song without going Idle.",				'hype',					false],
 		["Just the Two of Us",			"Finish a Song pressing only two keys.",			'two_keys',				false],
 		["Toaster Gamer",				"Have you tried to run the game on a toaster?",		'toastie',				false],
-		["Debugger",					"Beat the \"Test\" Stage from the Chart Editor.",	'debugger',				 true]
+		["Debugger",					"Beat the \"Test\" Stage from the Chart Editor.",	'debugger',				 true],
+["Aw Man!","Complete the hidden song Creep(Hit a special note at the end of a song)" 'aw_man', false],
+["He won't be happy...","Complete the hidden song ImmortalHD(type unhappy somewhere)"'unhappy', false],
+["Now you can make a sandwich","Complete the song
+
+
+
+
+
+
+
 	];
 	public static var achievementsMap:Map<String, Bool> = new Map<String, Bool>();
 
