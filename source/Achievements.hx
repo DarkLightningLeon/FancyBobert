@@ -30,7 +30,7 @@ class Achievements {
 	        ["Aw Man!",                                      "Complete The Hidden Song Creep",                          'aw_man',                               false] 
    	        ["He won't be happy...",                         "Complete The hidden song ImmortalHD",                     'happy',                                 false]
  ["Now You can make me a sandwich","Complete Johnathan with atleast 90 accuracy", 'sandwich', false]
-
+["ok","Complete the hidden song Tigero" (Get yelled at for not going to freeplay),
 
 
 ];
