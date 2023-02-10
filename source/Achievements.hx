@@ -27,12 +27,12 @@ class Achievements {
 		["Just the Two of Us",			"Finish a Song pressing only two keys.",			'two_keys',				false],
 		["Toaster Gamer",				"Have you tried to run the game on a toaster?",		'toastie',				false],
 		["Debugger",					"Beat the \"Test\" Stage from the Chart Editor.",	'debugger',				 true]
-	        ["Aw Man!",                                      "Complete The Hidden Song Creep",                          'aw_man',                               false] 
-   	        ["He won't be happy...",                         "Complete The hidden song ImmortalHD",                     'happy',                                 false]
- ["Now You can make me a sandwich","Complete Johnathan with atleast 90 accuracy", 'sandwich', false]
-["ok","Complete the hidden song Tigero (Get yelled at for not going to freeplay)",
-
-
+	        ["Aw Man!",                                      "Complete The Hidden Song Creep(Hit a special note at the end of a song)",                          'aw_man',                               false] 
+   	        ["He won't be happy...",                         "Complete The hidden song ImmortalHD(type unhappy somewhere)",                     'happy',                                 false]
+ ["Now You can make me a sandwich!","Complete Johnathan with atleast 90 accuracy", 'sandwich', false]
+["ok","Complete the hidden song Tigero (Get yelled at for not going to freeplay)", 'ok', false]
+["rest in piss","Complete the song Burglaration with at least 90 accuracy",'burglary', false]
+["AMOUNG US HAPPY MEAL 3AM (GONE WRONG)","Complete the song clickbait with atleast 90 accuracy", 'clickbait', false]
 ];
 	public static var achievementsMap:Map<String, Bool> = new Map<String, Bool>();
 
