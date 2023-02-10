@@ -28,7 +28,7 @@ class Achievements {
 		["Toaster Gamer",				"Have you tried to run the game on a toaster?",		'toastie',				false],
 		["Debugger",					"Beat the \"Test\" Stage from the Chart Editor.",	'debugger',				 true]
 	        ["Aw Man!",                                      "Complete The Hidden Song Creep",                          'aw_man',                               false] 
-   	        ["He won't be happy...",                         "Complete The hidden song ImmortalHD",                     'happy,                                 false]
+   	        ["He won't be happy...",                         "Complete The hidden song ImmortalHD",                     'happy',                                 false]
  ["Now You can make me a sandwich","Complete Johnathan with atleast 90 accuracy", 'sandwich', false]
 
 
